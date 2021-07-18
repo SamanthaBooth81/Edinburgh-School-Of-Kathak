@@ -1,102 +1,48 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Edinburgh School of Kathak Dance
 
-Welcome USER_NAME,
+This project is a website targeting people of all ages with a love of dance, intending to get them interested in Kathak – one of the 8 Indian Classical dances and sign up to classes. It will be used for students to sign up/enquire about lessons and also contain and learning section which can be used to test themselves or their fellow dance friends on the subject of Kathak Dance. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. The last update to this file was: **July 2, 2021**
+## Features
 
-## Gitpod Reminders
+1.	Navigation Bar
+    - Featured on all pages of the project, also containing the website name, Home Page, Timetable, Gallery and Kathak Knowledge Base
+    - As this is placed at the top of each page, it will ensure the user is able to easily maneuvers around the site without having to revert or return to the Home Page
+2.	Landing Page Image
+    - Photograph of Ghungroos worn by Kathak Dancers during their training and a recital
+    - Intended to draw those who are both new and experienced with Kathak to that website. 
+3.	Homepage INCLUDE SCREENSHOTS!!!!
+Scroll down through the page to see the following: 
+    - About the Site – Who it is for (everyone) and why we
+    - About the School
+        - Welcome for everyone to join 
+        - Possibility to meet new people of train privately 
+        - Performance Opportunities and Community Engagement  
+    - Ethos 
+        - Increases strength and mobility 
+        - Tightly linked with Yoga
+        - Increases Stamina and Agility, especially the more advanced you become 
+        - Socialization – meet other dancers and musicians 
+        - Great for brain training as mathematical in a lot of ways 
+        - A great form self-expression
+4.	Classes
+    - Containing a timetable with class details such as date, time, level and a price break down 
+    - Link to contact form for first time joiners and private class enquiries 
+    - Private classes section 
+5.	Gallery 
+    -  Images of Past Performances 
+6.	Kathak Knowledge Base
+    - Basic questions to help users learn a bit more about what Kathak is in a fun way
+    - Also to aid students of the school for upcoming examinations 
+7.	Contact Form 
+    - To enable the user to get in touch with any questions or to set up a taster class 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Features to be Implemented 
+1.	E-Commerce – A shopping area to pay for classes & uniform/Ghungroos online
 
-`python3 -m http.server`
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
+## Testing
+## Validator Testing
+## Unfixed Bugs
+## Deployment
+## Credit 
+### Content
+### Media
