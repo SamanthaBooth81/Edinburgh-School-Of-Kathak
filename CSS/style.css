@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    color: #2F4858
 }
 
 h1 {
@@ -9,10 +10,6 @@ h1 {
 
 h2 {
     color: #FF6B5B
-}
-
-p {
-    color: #2F4858
 }
 
 table {
@@ -49,3 +46,18 @@ nav li {
  nav a:hover {
      color: wheat;
  }
+
+ footer {
+    background-color: rgb(21, 44, 63);
+    line-height: 100px;
+    height: 100px;
+    text-align: center;
+    position: static;
+ }
+
+ footer a {
+    text-decoration: none;
+    color:whitesmoke;
+ }
+    
+    
