@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 h1 {
     color: #FF3E25 
 }
@@ -14,6 +19,33 @@ table {
     text-align: center;
 }
 
-nav {
-    text-align: center;
+nav ul {
+    list-style: none;
+    text-align: left;
+    background-color: #FF3E25;
+    padding: 0;
+    margin: 0;
 }
+
+nav li {
+    color: whitesmoke;
+    font-size: large;
+    font-weight: bolder;
+    display: inline-block;
+    line-height: 60px;
+    height: 60px;
+}
+
+ a:hover {
+     color:steelblue; 
+ }
+
+ nav a {
+     color:whitesmoke; 
+     text-decoration: none;
+     display: block;
+ }
+
+ nav a:hover {
+     color: wheat;
+ }
