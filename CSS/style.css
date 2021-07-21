@@ -61,4 +61,10 @@ nav li {
     padding: 20px;
  }
     
-    
+ .homepage-img {
+     max-width: 100%;
+ }   
+
+ .timetable-img {
+    width: 100%;
+ }
