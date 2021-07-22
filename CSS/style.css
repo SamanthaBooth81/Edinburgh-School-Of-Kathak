@@ -68,3 +68,8 @@ nav li {
  .timetable-img {
     width: 100%;
  }
+
+ .content {
+     margin-left: 150px;
+     margin-right: 150px;
+ }
