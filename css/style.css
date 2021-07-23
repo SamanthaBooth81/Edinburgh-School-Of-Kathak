@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-    color: #FF3E25 
+    color: #D66309;
 }
 
 h2 {
-    color: #FF6B5B
+    color: #FA940A
 }
 
 table {
@@ -41,7 +41,7 @@ nav li {
 }
 
  a:hover {
-     color:steelblue; 
+     color:#ED4D02
  }
 
  nav a {
