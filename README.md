@@ -51,3 +51,9 @@ The information from What is Kathak? Section on the home page was taken from the
 - https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning 
 
 ### Media
+
+This video is taken from YouTube of myself dancing 'Pakeezah Tarana' for the Dancing Nikita Company:
+
+- https://www.youtube.com/watch?v=JV2FQLYp3hU 
+
+I have placed it on the homepage so that users new to Kathak can see exactly what style they will learn if they join and so that experienced dancers get a taste of the style. 
