@@ -85,12 +85,6 @@ nav li {
      margin-bottom: 50px;
  }
 
- .form{
-     background-color:moccasin; 
-     width: 60%;
-     align-content: center;
- }
-
  iframe {
      padding-left: 25%;
      padding-right: 25%;
@@ -114,4 +108,15 @@ body {
 
 .footer {
     flex-shrink: 0;
+}
+
+.form {
+}
+
+.form-background {
+    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/conscious-design-contact-page.jpg?raw=true");
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
