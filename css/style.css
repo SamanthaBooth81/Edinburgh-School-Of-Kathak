@@ -85,6 +85,7 @@ footer a {
      margin-left: 200px;
      margin-right: 200px;
      margin-bottom: 50px;
+     margin-top: 50px;
  }
 
 iframe {
@@ -110,6 +111,11 @@ body {
 
 .footer {
     flex-shrink: 0;
+}
+
+.homepage-background {
+    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/abhyuday-majhi-cropped.png?raw=true");
+    background-repeat: no-repeat;
 }
 
 .form-background {
