@@ -50,6 +50,9 @@ The information from What is Kathak? Section on the home page was taken from the
 - https://kathadance.org/about-2/what-is-kathak/ 
 - https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning 
 
+The sticky footer code was taken from the flex section of this article 
+https://css-tricks.com/couple-takes-sticky-footer/ 
+
 ### Media
 
 This video is taken from YouTube of myself dancing 'Pakeezah Tarana' for the Dancing Nikita Company:
