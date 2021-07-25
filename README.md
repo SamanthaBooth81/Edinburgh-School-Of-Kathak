@@ -50,8 +50,11 @@ The information from What is Kathak? Section on the home page was taken from the
 - https://kathadance.org/about-2/what-is-kathak/ 
 - https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning 
 
-The sticky footer code was taken from the flex section of this article 
-https://css-tricks.com/couple-takes-sticky-footer/ 
+The sticky footer code was taken from the flex section of this article: 
+- https://css-tricks.com/couple-takes-sticky-footer/ 
+
+How to create the a:visited text colour code was taken from this website:
+- https://www.w3schools.com/cssref/sel_visited.asp 
 
 ### Media
 
