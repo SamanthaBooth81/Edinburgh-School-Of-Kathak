@@ -40,7 +40,7 @@
 <form action="https://formdump.codeinstitute.net/" method="POST" class="form"> 
 
     <label for=”name”>Name</label>
-    <input id=”name” type=”text”>
+    <input id=”name” type=”text” required>
 
     <label for=”Number”>Contact Number</label>
     <input id=”number” type=”number”>
@@ -48,10 +48,10 @@
     <br>
 
     <label for=”email”>Email</label>
-    <input id=”email” type=”text”>
+    <input id=”email” type="email" required>
     
     <label for=”subject”>Enquiry Type</label>
-    <select name=”subject” id=”subject”>
+    <select name=”subject” id=”subject” required>
         <option value=”class enquiry”>Class Enquiry</option>
         <option value=”Private Lessons”>Private Lesson</option>
         <option value=”Taster Class”>Taster Class</option>
@@ -64,7 +64,7 @@
     
     <br>
     
-    <textarea id="message" placeholder="Type your message here"name="messgae" rows="10" cols="50"></textarea>
+    <textarea id="message" placeholder="Type your message here"name="messgae" rows="10" cols="50" required></textarea>
     
     <br>
 
