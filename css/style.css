@@ -118,3 +118,16 @@ body {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.form {
+    margin: 0%;
+    padding: 0px;
+}
+
+.form-input {
+    width: 380px;
+    padding: 0.5rem 1rem;
+    margin-bottom: 16px;
+    outline: none;
+    border: 1.5px solid black;
+}
