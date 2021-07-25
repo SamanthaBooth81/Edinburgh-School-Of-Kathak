@@ -21,8 +21,7 @@
 </style> 
 </head>
 
-<body class="form-background">
-    <div class="content">
+<body class="form-background" class="content">
     <nav>
         <ul> 
             <li><a href="index.html">Homepage</a></li>
@@ -31,56 +30,37 @@
         </ul>
     </nav>
 
-<div class="margin">
-<h1>Contact Us</h1>
-    <p>Please get in touch and we'll get back to you as soon as possible!</p>
+    <div class="margin">
+        <h1>Contact Us</h1>
+        <p>Please get in touch and we'll get back to you as soon as possible!</p>
 
-<div class="form">
-<form action="https://formdump.codeinstitute.net/" method="POST" class="form"> 
+        <form action="https://formdump.codeinstitute.net/" method="POST" class="form"> 
+        
+            <input id=”name” type=”text” Placeholder="Name" class="form-input" required><br>
+            
+            <input id=”number” type=”number” placeholder="Contact Number" class="form-input"><br>
+            
+            <input id=”email” type="email" placeholder="Email" class="form-input" required><br>
+            
+            <select name=”subject” id=”subject” class="form-input" required>
+                <option value="none">Choose One</option>
+                <option value=”class enquiry”>Class Enquiry</option>
+                <option value=”Private Lessons”>Private Lesson</option>
+                <option value=”Taster Class”>Taster Class</option>
+                <option value=”Other”>Other</option>
+            </select><br>
+            
+            <textarea id="message" placeholder="Type your message here"name="messgae" rows="10" cols="50" class="form-input" required></textarea>
+            <br>
 
-    
-    <input id=”name” type=”text” Placeholder="Name" class="form-input" required>
+            <input type="submit" value="Send Message">
+        </form>
+    </div>
 
-    <br>
-
-    
-    <input id=”number” type=”number” placeholder="Contact Number" class="form-input">
-
-    <br>
-
-    
-    <input id=”email” type="email" placeholder="Email" class="form-input" required>
-
-    <br>
-    
-    
-    <select name=”subject” id=”subject” class="form-input" required>
-        <option value="none">Choose One</option>
-        <option value=”class enquiry”>Class Enquiry</option>
-        <option value=”Private Lessons”>Private Lesson</option>
-        <option value=”Taster Class”>Taster Class</option>
-        <option value=”Other”>Other</option>
-    </select>
-    
-    <br>
-    
-    <textarea id="message" placeholder="Type your message here"name="messgae" rows="10" cols="50" class="form-input" required></textarea>
-    
-    <br>
-
-    <input type="submit" value="Send Message">
-</form>
-</div>
-</div>
-</div>
-
-
-<footer class ="footer">
-    <a href="https://www.facebook.com/" target="_blank"><img src="https://img.icons8.com/metro/26/ffffff/facebook.png"alt="Facebook"/></a>
-    <a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/metro/26/ffffff/instagram-new.png" alt="Instagram"/></a>
-    <a href="https://www.youtube.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/youtube.png" alt="YouTube"/></a>
-</footer>
-
-
+    <footer class ="footer">
+        <a href="https://www.facebook.com/" target="_blank"><img src="https://img.icons8.com/metro/26/ffffff/facebook.png"alt="Facebook"/></a>
+        <a href="https://www.instagram.com/" target="_blank"><img src="https://img.icons8.com/metro/26/ffffff/instagram-new.png" alt="Instagram"/></a>
+        <a href="https://www.youtube.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/youtube.png" alt="YouTube"/></a>
+    </footer>
 </body>
 </html>
