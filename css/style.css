@@ -75,7 +75,7 @@ nav li {
     width: 100%;
  }
 
- .content {
+ .margin {
      margin-left: 200px;
      margin-right: 200px;
      margin-bottom: 50px;
@@ -94,3 +94,20 @@ nav li {
      padding-bottom: 8%;
  }
 
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1 0 auto; 
+}
+
+.footer {
+    flex-shrink: 0;
+}
