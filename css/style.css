@@ -1,7 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    color: #2F4858
+    font-family: 'Gotu', sans-serif;
+    background-color: black;
+    color:gainsboro;
 }
 
 h1 {
@@ -40,52 +42,52 @@ nav li {
     padding: 10px;
 }
 
- a:hover {
+body a:hover {
      color:#edb602
  }
 
- body p a:visited {
+body p a:visited {
      color:#D66309; 
  }
 
- nav a {
+nav a {
      color:whitesmoke; 
      text-decoration: none;
      display: block;
  }
 
- nav a:hover {
+nav a:hover {
      color: wheat;
  }
 
- footer {
+footer {
     background-color: #FA9B2E;
     line-height: 100px;
     height: 100px;
     text-align: center;
  }
 
- footer a {
+footer a {
     text-decoration: none;
     color:whitesmoke;
     padding: 20px;
  }
     
- .homepage-img {
+.homepage-img {
      max-width: 100%;
  }   
 
- .timetable-img {
+.timetable-img {
     width: 100%;
  }
 
- .margin {
+.margin {
      margin-left: 200px;
      margin-right: 200px;
      margin-bottom: 50px;
  }
 
- iframe {
+iframe {
      padding-left: 25%;
      padding-right: 25%;
      padding-top: 8%;
@@ -112,7 +114,6 @@ body {
 
 .form-background {
     background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/conscious-design-contact-page.jpg?raw=true");
-    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
