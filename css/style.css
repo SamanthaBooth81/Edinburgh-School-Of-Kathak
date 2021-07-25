@@ -41,7 +41,11 @@ nav li {
 }
 
  a:hover {
-     color:#ED4D02
+     color:#edb602
+ }
+
+ body p a:visited {
+     color:#D66309; 
  }
 
  nav a {
