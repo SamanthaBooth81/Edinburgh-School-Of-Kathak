@@ -6,6 +6,11 @@ body {
     color:gainsboro;
 }
 
+section {
+    width: 100%;
+    height: 100vh;
+}
+
 h1 {
     color: #D66309;
 }
@@ -43,11 +48,11 @@ nav li {
 }
 
 body a:hover {
-     color:#edb602
+     color:#e7b50e;
  }
 
 body p a:visited {
-     color:#D66309; 
+     color:#d67d09; 
  }
 
 nav a {
@@ -82,8 +87,8 @@ footer a {
  }
 
 .margin {
-     margin-left: 200px;
-     margin-right: 200px;
+     margin-left: 170px;
+     margin-right: 170px;
      margin-bottom: 50px;
      margin-top: 50px;
  }
@@ -144,3 +149,23 @@ body {
     outline: none;
     border: 1.5px solid black;
 }
+
+.left-box {
+    width: 35%;
+    height: 65%;
+    float: left;
+    padding: 30px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 0;
+}
+
+section .events {
+    position: relative;
+    width: 40%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    float: right;
+    box-sizing: border-box;
+}
+
