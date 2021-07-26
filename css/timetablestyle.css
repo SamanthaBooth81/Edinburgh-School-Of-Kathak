@@ -48,14 +48,6 @@ section .leftbox .leftcontent {
     padding: 40px;
 }
 
-/* section .timetable {
-    position: relative; 
-    width: 50%; 
-    height: 100%; 
-    background-color: rgba(0, 0, 0, 0.5); 
-    float: right; 
-    box-sizing: border-box;
-} */
 section ul {
     position: absolute; 
     top: 50%; 
@@ -72,6 +64,25 @@ section li {
     height: 150px;
 }
 
+.timetable {
+    position: relative; 
+    width: 50%; 
+    height: 100%; 
+    background-color: rgba(0, 0, 0, 0.5); 
+    float: right; 
+    box-sizing: border-box;
+}
+
+.day {
+    position: relative; 
+    padding: 20px; 
+    background-color:rgba(226, 156, 27, 0.863); 
+    box-sizing: border-box; 
+    width: 30%; 
+    height: 100%; 
+    float: left; 
+    text-align: center;
+}
 
 footer {
     background-color: #FA9B2E;
