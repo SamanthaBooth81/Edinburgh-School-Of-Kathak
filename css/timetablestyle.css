@@ -31,7 +31,7 @@ nav a:hover {
 }
 section {
     width: 100%;
-    height: 100vh;
+    height: 100%;
     background: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/saksham-gangwar-resized.jpg?raw=true");
     background-size: cover;
 }
@@ -46,22 +46,31 @@ section .leftbox .leftcontent {
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
     padding: 40px;
-    transition: 5s;
 }
 
-section .timetable {
+/* section .timetable {
     position: relative; 
     width: 50%; 
     height: 100%; 
     background-color: rgba(0, 0, 0, 0.5); 
     float: right; 
     box-sizing: border-box;
+} */
+section ul {
+    position: absolute; 
+    top: 50%; 
+    transform: translateY(-50%); 
+    margin:0; 
+    padding: 40px; 
+    box-sizing: border-box;
 }
-
-
-
-
-
+section li {
+    list-style: none; 
+    background-color: rgb(255, 245, 238); 
+    box-sizing: border-box; 
+    width: 300%; 
+    height: 150px;
+}
 
 
 footer {
