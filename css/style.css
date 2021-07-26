@@ -6,11 +6,6 @@ body {
     color:gainsboro;
 }
 
-section {
-    width: 100%;
-    height: 100vh;
-}
-
 h1 {
     color: #D66309;
 }
@@ -82,10 +77,6 @@ footer a {
      max-width: 100%;
  }   
 
-.timetable-img {
-    width: 100%;
- }
-
 .margin {
      margin-left: 170px;
      margin-right: 170px;
@@ -102,7 +93,6 @@ iframe {
 
 html, body {
     height: 100%;
-    margin: 0;
 }
 
 body {
@@ -152,20 +142,10 @@ body {
 
 .left-box {
     width: 35%;
-    height: 65%;
+    height: 100%;
     float: left;
     padding: 30px;
     box-sizing: border-box;
     background-color: rgba(0, 0, 0, 0.5);
-    margin: 0;
-}
-
-section .events {
-    position: relative;
-    width: 40%;
-    height: 100%;
-    background: rgba(0, 0, 0, 0.5);
-    float: right;
-    box-sizing: border-box;
 }
 
