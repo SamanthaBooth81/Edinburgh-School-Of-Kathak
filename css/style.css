@@ -179,3 +179,8 @@ iframe {
     margin: 24px 0 10px 0;
     color:rgb(209, 94, 18);
 }
+
+.event .event-right .event-description {
+    text-align: left;
+    padding-bottom: 20px;
+}
