@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Gotu&family=Open+Sans:wght@300&display=swap');
+
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Gotu', sans-serif;
+    font-family: 'Gotu', sans-serif,'Open Sans', sans-serif;
     background-color: black;
     color:gainsboro;
 }
@@ -170,6 +172,8 @@ iframe {
     background-color: rgba(240, 255, 255, 0.616);
     width: 580px;
     color:#d67d09;
+    border-radius: 0 8px 8px 0
+    ;
 }
 
 .event .event-right h3.event-title {
