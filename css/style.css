@@ -130,12 +130,15 @@ body {
     border: 1.5px solid black;
 }
 
-.left-box {
-    width: 35%;
-    height: 100%;
-    float: left;
-    padding: 30px;
-    box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0.5);
+.event-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.event-container h3.timetable {
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 1px solid #ffa500;
+    color:#ffa500; 
 }
 
