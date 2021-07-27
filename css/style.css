@@ -7,6 +7,7 @@ body {
 }
 
 h1 {
+    font-size: 40px;
     color: #D66309;
 }
 
@@ -67,12 +68,12 @@ footer a {
      max-width: 100%;
  }   
 
-/* .margin {
+.margin {
      margin-left: 170px;
      margin-right: 170px;
      margin-bottom: 50px;
      margin-top: 50px;
- } */
+ } 
 
 iframe {
      padding-left: 25%;
@@ -121,8 +122,8 @@ iframe {
 .event-container h3.timetable {
     font-size: 40px;
     text-align: center;
-    border-bottom: 1px solid #ffa500;
-    color:#ffa500; 
+    border-bottom: 1px solid #D66309;
+    color:#D66309 
 }
 
 .event-container .event {
@@ -137,7 +138,7 @@ iframe {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: seashell;
+    color: rgb(255, 246, 238);
     padding: 8px 48px;
     font-weight: bold;
     text-align: center;
@@ -145,7 +146,7 @@ iframe {
 }
 
 .event .event-left .date {
-    font-size: 30px;
+    font-size: 26px;
 }
 
 .event .event-left .month {
@@ -158,6 +159,9 @@ iframe {
     flex-direction: column;
     justify-content: center;
     padding: 0 24px;
+    background-color: rgba(240, 255, 255, 0.616);
+    width: 580px;
+    color:#d67d09;
 }
 
 .event .event-right h3.event-title {
