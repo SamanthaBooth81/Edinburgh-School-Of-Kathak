@@ -33,11 +33,11 @@ nav li {
     padding: 10px;
 }
 
-body a:hover {
-     color:#e7b50e;
+section a:hover {
+     color:hsl(49, 89%, 48%);
  }
 
-body p a:visited {
+section a:visited {
      color:#d67d09; 
  }
 
@@ -64,9 +64,6 @@ footer a {
     padding: 20px;
  }
     
-.homepage-img {
-     max-width: 100%;
- }   
 
 .margin {
     margin-right: 10%;
@@ -85,6 +82,7 @@ iframe {
 .homepage-background {
     background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/abhyuday-majhi-cropped.png?raw=true");
     background-repeat: no-repeat;
+    background-position:bottom;
 }
 
 .timetable-background {
