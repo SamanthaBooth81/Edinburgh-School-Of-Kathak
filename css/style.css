@@ -107,11 +107,21 @@ iframe {
 }
 
 .form-input {
-    width: 380px;
+    width: 360px;
     padding: 0.5rem 1rem;
     margin-bottom: 16px;
     outline: none;
     border: 1.5px solid black;
+}
+
+.submit {
+    background-color:rgb(252, 167, 57); 
+    width: 180px;
+    height: 40px;
+    color:seashell; 
+    font-weight: bolder;
+    border-style:outset;
+    border-color: blanchedalmond;
 }
 
 .timetable-container {
