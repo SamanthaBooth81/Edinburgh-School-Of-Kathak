@@ -69,10 +69,10 @@ footer a {
  }   
 
 .margin {
-     margin-left: 170px;
-     margin-right: 170px;
-     margin-bottom: 50px;
-     margin-top: 50px;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
  } 
 
 iframe {
@@ -114,19 +114,19 @@ iframe {
     border: 1.5px solid black;
 }
 
-.event-container {
+.timetable-container {
     max-width: 800px;
     margin: 0 auto;
 }
 
-.event-container h3.timetable {
+.timetable-container h3.timetable {
     font-size: 40px;
     text-align: center;
     border-bottom: 1px solid #D66309;
     color:#D66309 
 }
 
-.event-container .event {
+.timetable-container .event {
     display: flex;
     border-radius: 8px;
     margin: 32px 0;
@@ -167,5 +167,5 @@ iframe {
 .event .event-right h3.event-title {
     font-size: 24px;
     margin: 24px 0 10px 0;
-    color:salmon;
+    color:rgb(209, 94, 18);
 }
