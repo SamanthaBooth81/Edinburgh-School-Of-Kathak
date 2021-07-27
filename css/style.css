@@ -126,7 +126,6 @@ iframe {
 }
 
 .event-container .event {
-    box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.4);
     display: flex;
     border-radius: 8px;
     margin: 32px 0;
@@ -152,4 +151,17 @@ iframe {
 .event .event-left .month {
     font-size: 16px;
     font-weight: normal;
+}
+
+.event .event-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 24px;
+}
+
+.event .event-right h3.event-title {
+    font-size: 24px;
+    margin: 24px 0 10px 0;
+    color:salmon;
 }
