@@ -90,20 +90,23 @@ footer a {
     margin-bottom: 5%;
  } 
  /* youtube video showing how to make an embedded youtube video responsive https://www.youtube.com/watch?v=9YffrCViTVk */
- .iframe {
-    position: relative;
-    width: 100%;
-    padding-bottom: 60%;
-    height: 0;
-    margin-bottom: 20%;
- }
 
- .iframe iframe {
-     position: absolute;
-     top: 0;
-     left: 0;
-     width:100%;
-     height: 100%; 
+ @media screen and (max-width: 1000px) {
+    .iframe {
+        position: relative;
+        width: 100%;
+        padding-bottom: 60%;
+        height: 0;
+        margin-bottom: 20%;
+    }
+
+    .iframe iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width:100%;
+        height: 100%; 
+    }
  }
 
  iframe {
@@ -132,16 +135,18 @@ footer a {
     background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-background.jpg?raw=true");
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: cover;
 }
 
 .form {
+    position: relative;
     margin: 0;
     padding: 0px;
+    width: 50%;
 }
 
 .form-input {
-    width: 360px;
+    width: 70%;
     padding: 0.5rem 1rem;
     margin-bottom: 16px;
     outline: none;
@@ -157,6 +162,17 @@ footer a {
     border-style:outset;
     border-color: blanchedalmond;
 }
+
+@media screen and (max-width: 1000px) {
+    .form {
+        width: 100%;
+        margin-top: 0%;
+        padding: 0;
+    }
+    .form input textarea {
+        width: 90%;
+    }
+  }
 
 /* This video was used to help put the Timetable page together along with the below CSS which was edited and added to, to display my own design:
 https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
