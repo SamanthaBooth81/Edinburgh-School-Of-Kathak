@@ -39,7 +39,7 @@ nav ul {
 }
 
 nav li {
-    color: whitesmoke;
+    color: gainsboro;
     font-size: large;
     font-weight: bolder;
     display: inline-block;
@@ -57,13 +57,16 @@ section a:visited {
  }
 
 nav a {
-     color:whitesmoke; 
+     color:gainsboro;
      text-decoration: none;
      display: block;
  }
 
 nav a:hover {
      color: wheat;
+ }
+ body a {
+     color: gainsboro;
  }
 
 footer {
