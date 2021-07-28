@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gotu&family=Open+Sans:wght@300&display=swap');
 
+/* how to create a sticky footer was taken from this web page: https://css-tricks.com/couple-takes-sticky-footer/  */
+
 body {
     margin: 0;
     padding: 0;
@@ -10,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
 .content {
     flex: 1 0 auto; 
 }
