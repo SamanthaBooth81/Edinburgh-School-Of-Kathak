@@ -6,6 +6,16 @@ body {
     font-family: 'Gotu', sans-serif,'Open Sans', sans-serif;
     background-color: black;
     color:gainsboro;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.content {
+    flex: 1 0 auto; 
+}
+
+.footer{
+    flex-shrink: 0;
 }
 
 h1 {
@@ -85,20 +95,20 @@ iframe {
  }
 
 .homepage-background {
-    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/abhyuday-majhi-cropped.png?raw=true");
+    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true");
     background-repeat: no-repeat;
     background-position:bottom;
 }
 
 .timetable-background {
-    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/saksham-gangwar-resized.jpg?raw=true");
+    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/timetable-background.jpg?raw=true");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .form-background {
-    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/conscious-design-contact-page.jpg?raw=true");
+    background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-background.jpg?raw=true");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
