@@ -89,26 +89,36 @@ footer a {
     margin-top: 5%;
     margin-bottom: 5%;
  } 
-
-iframe {
-     /* padding-left: 25%;
-     padding-right: 25%; */
-     padding-top: 8%;
-     padding-bottom: 8%;  
-     width: 560px;
-     height: 315px;
-     border: none;
- }
-
+ /* youtube video showing how to make an embedded youtube video responsive https://www.youtube.com/watch?v=9YffrCViTVk */
  .iframe {
-    margin: auto;
-    width: min-content;
+    position: relative;
+    width: 100%;
+    padding-bottom: 60%;
+    height: 0;
+    margin-bottom: 20%;
  }
+
+ .iframe iframe {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width:100%;
+     height: 100%; 
+ }
+
+ iframe {
+    padding-top: 8%;
+    padding-bottom: 8%;  
+    width: 560px;
+    height: 315px;
+    border: none;
+}
 
 .homepage-background {
     background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true");
     background-repeat: no-repeat;
     background-position:bottom;
+    background-size: cover;
 }
 
 .timetable-background {
