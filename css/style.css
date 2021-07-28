@@ -127,6 +127,9 @@ iframe {
     border-color: blanchedalmond;
 }
 
+/* This video was used to help put the Timetable page together along with the below CSS which was edited and added to, to display my own design:
+https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
+
 .timetable-container {
     max-width: 800px;
     margin: 0 auto;
