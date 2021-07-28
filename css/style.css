@@ -91,13 +91,18 @@ footer a {
  } 
 
 iframe {
-     padding-left: 25%;
-     padding-right: 25%;
+     /* padding-left: 25%;
+     padding-right: 25%; */
      padding-top: 8%;
-     padding-bottom: 8%; 
+     padding-bottom: 8%;  
      width: 560px;
      height: 315px;
      border: none;
+ }
+
+ .iframe {
+    margin: auto;
+    width: min-content;
  }
 
 .homepage-background {
@@ -121,7 +126,7 @@ iframe {
 }
 
 .form {
-    margin: 0%;
+    margin: 0;
     padding: 0px;
 }
 
