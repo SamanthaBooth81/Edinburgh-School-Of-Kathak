@@ -23,7 +23,7 @@ body {
 
 h1 {
     font-size: 40px;
-    color: #D66309;
+    color: #c05605;
 }
 
 h2 {
@@ -33,7 +33,7 @@ h2 {
 nav ul {
     list-style: none;
     text-align: left;
-    background-color: #D66309;
+    background-color: #c05605;
     padding: 0;
     margin: 0;
 }
