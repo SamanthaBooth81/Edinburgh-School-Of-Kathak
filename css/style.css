@@ -264,11 +264,11 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
     text-align: left;
     padding-bottom: 20px;
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 380px) {
     .timetable-container {
         width: 100%;
         margin: 0;
-        padding: 0;
-
+        padding: 0 0;   
     }
+    
 }
