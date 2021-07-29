@@ -39,7 +39,7 @@ nav ul {
 }
 
 nav li {
-    color: gainsboro;
+    color: rgb(255, 255, 255);
     font-size: large;
     font-weight: bolder;
     display: inline-block;
@@ -57,13 +57,13 @@ section a:visited {
  }
 
 nav a {
-     color:gainsboro;
+     color:rgb(255, 255, 255);
      text-decoration: none;
      display: block;
  }
 
 nav a:hover {
-     color: wheat;
+     color: rgb(241, 192, 100);
  }
  body a {
      color: gainsboro;
