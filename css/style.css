@@ -185,8 +185,8 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
 .timetable-container h3.timetable {
     font-size: 40px;
     text-align: center;
-    border-bottom: 1px solid #D66309;
-    color:#D66309 
+    /* border-bottom: 1px solid #D66309; */
+    color:#c05605;
 }
 
 .timetable-container .event {
@@ -196,7 +196,7 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
 }
 
 .event .event-left {
-    background-color:sandybrown; 
+    background-color:rgba(241, 147, 64, 0.849); 
     min-width: 82px;
     display: flex;
     align-items: center;
