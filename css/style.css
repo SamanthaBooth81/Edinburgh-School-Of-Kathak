@@ -211,10 +211,8 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
     margin: 0 auto;
 }
 
-.timetable-container h3.timetable {
-    font-size: 40px;
+.timetable-container h1.timetable {
     text-align: center;
-    /* border-bottom: 1px solid #D66309; */
     color:#c05605;
 }
 
