@@ -8,10 +8,13 @@ body {
     font-family: 'Gotu', sans-serif,'Open Sans', sans-serif;
     background-color: black;
     color:gainsboro;
-    height: 100%;
     display: flex;
     flex-direction: column;
 }
+
+html body {
+    min-height: 100%;
+} 
 
 .content {
     flex: 1 0 auto; 
@@ -120,8 +123,9 @@ footer a {
 .homepage-background {
     background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true");
     background-repeat: no-repeat;
-    background-position:bottom;
+    background-position: bottom;
     background-size: cover;
+    
 }
 
 .timetable-background {
