@@ -153,6 +153,10 @@ footer a {
     border: 1.5px solid black;
 }
 
+#subject {
+    width: 76%;
+}
+
 .submit {
     background-color:rgba(252, 167, 57, 0.822); 
     width: 180px;
@@ -173,7 +177,28 @@ footer a {
     .form input textarea {
         width: 90%;
     }
-  }
+}
+
+.message-received {
+    background-color: rgba(255, 255, 255, 0.685);
+    font-size: large;
+    border-radius: 8px 8px;
+    width: 60%;
+    margin: 0 auto; 
+    text-align: center;
+}
+
+.message-received p {
+    color:rgba(155, 63, 9, 0.89)
+}
+
+@media screen and (max-width: 900px) {
+    .message-received {
+        margin: 0;
+        width: 100%;
+    }
+}
+   
 
 /* This video was used to help put the Timetable page together along with the below CSS which was edited and added to, to display my own design:
 https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
@@ -245,6 +270,6 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
         width: 100%;
         margin: 0;
         padding: 0;
-        
+
     }
 }
