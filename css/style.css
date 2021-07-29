@@ -154,11 +154,12 @@ footer a {
 }
 
 .submit {
-    background-color:rgb(252, 167, 57); 
+    background-color:rgba(252, 167, 57, 0.822); 
     width: 180px;
     height: 40px;
-    color:seashell; 
-    font-weight: bolder;
+    color:rgb(253, 253, 253); 
+    font-weight: lighter;
+    font-size: large;
     border-style:outset;
     border-color: blanchedalmond;
 }
