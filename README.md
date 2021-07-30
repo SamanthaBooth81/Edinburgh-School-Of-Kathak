@@ -5,42 +5,59 @@ This project is a website targeting people of all ages with a love of dance, int
 ## Features
 
 1.	Navigation Bar
-    - Featured on all pages of the project, also containing the website name, Home Page, Timetable, Gallery and Kathak Knowledge Base
+    - Featured on all pages of the project, containing links to the Home Page, Timetable and Contact Form
     - As this is placed at the top of each page, it will ensure the user is able to easily maneuvers around the site without having to revert or return to the Home Page
 2.	Landing Page Image
-    - Photograph of Ghungroos worn by Kathak Dancers during their training and a recital
+    - Photograph of a Kathak dancer on stage in full costume.
     - Intended to draw those who are both new and experienced with Kathak to that website. 
 3.	Homepage INCLUDE SCREENSHOTS!!!!
 Scroll down through the page to see the following: 
-    - About the Site – Who it is for (everyone) and why we
     - About the School
         - Welcome for everyone to join 
-        - Possibility to meet new people of train privately 
-        - Performance Opportunities and Community Engagement  
-    - Ethos 
+        - Possibility to meet new people or train privately 
+        - Performance Opportunities and Community Engagement 
+        - link to timetable 
+    - What is Kathak dance 
+        - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
+    - Benefits of Kathak Dance 
         - Increases strength and mobility 
-        - Tightly linked with Yoga
         - Increases Stamina and Agility, especially the more advanced you become 
-        - Socialization – meet other dancers and musicians 
+        - Socialization – meet other students, dancers and musicians 
         - Great for brain training as mathematical in a lot of ways 
         - A great form self-expression
+        - Link to the Contact Page to encourage users to find out more/sign up
 4.	Classes
-    - Containing a timetable with class details such as date, time, level and a price break down 
-    - Link to contact form for first time joiners and private class enquiries 
-    - Private classes section 
-5.	Gallery 
-    -  Images of Past Performances 
-6.	Kathak Knowledge Base
-    - Basic questions to help users learn a bit more about what Kathak is in a fun way
-    - Also to aid students of the school for upcoming examinations 
-7.	Contact Form 
+    - A timetable with class details such as Class Day, time, level, experience required and cost
+    - Allows the user to see if their level is available and details 
+5.	Contact Form 
     - To enable the user to get in touch with any questions or to set up a taster class 
+    - Useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time
+6. Contact Response 
+    - Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
+7. Footer  
+    - Featured on all pages of the project, containing links to the sites Social Media Pages 
+    - Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online
 
 ## Features to be Implemented 
 1.	E-Commerce – A shopping area to pay for classes & uniform/Ghungroos online
+2.  Gallery page with images of the studios, teachers, performances 
+6.	Kathak Knowledge Base
+    - Basic questions to help users learn a bit more about what Kathak is in a fun way
+    - Also to aid students of the school for upcoming examinations 
+    - A link to this page in the What is Kathak section of the Homepage
 
 ## Testing
+
+
 ## Validator Testing
+
+HTML
+No errors were returned when passing through the official W3C validator
+CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+Also put through WAVE to test colour contrast through out
+
 ## Unfixed Bugs
 ## Deployment
 ## Credit 
@@ -56,6 +73,9 @@ The sticky footer code was taken from the flex section of this article:
 How to create the a:visited text colour code was taken from this website:
 - https://www.w3schools.com/cssref/sel_visited.asp 
 
+How to put together the timetable page was taken from this YouTube video and then re-stylled accordingly
+- https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s
+
 ### Media
 
 This video is taken from YouTube of myself dancing 'Pakeezah Tarana' for the Dancing Nikita Company:
@@ -63,3 +83,6 @@ This video is taken from YouTube of myself dancing 'Pakeezah Tarana' for the Dan
 - https://www.youtube.com/watch?v=JV2FQLYp3hU 
 
 I have placed it on the homepage so that users new to Kathak can see exactly what style they will learn if they join and so that experienced dancers get a taste of the style. 
+
+The background Images were downloaded from:
+- https://unsplash.com/ and optimized using a JPEG Optimizer
