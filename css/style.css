@@ -179,6 +179,11 @@ footer a {
         margin-top: 0%;
         padding: 0;
     }
+
+    .form-input {
+        width: 100%;
+        box-sizing: border-box;
+    }
     .form input textarea {
         width: 90%;
     }
