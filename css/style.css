@@ -189,6 +189,7 @@ footer a {
     width: 60%;
     margin: 0 auto; 
     text-align: center;
+    padding: 30px;
 }
 
 .message-received p {
@@ -199,6 +200,7 @@ footer a {
     .message-received {
         margin: 0;
         width: 100%;
+        padding: 0;
     }
 }
    
