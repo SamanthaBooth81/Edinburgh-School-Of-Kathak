@@ -193,7 +193,7 @@ footer a {
 }
 
 .message-received p {
-    color:rgba(155, 63, 9, 0.89)
+    color:rgba(155, 63, 9, 0.89);
 }
 
 @media screen and (max-width: 900px) {
@@ -253,7 +253,7 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
     padding: 0 24px;
     background-color: rgba(240, 255, 255, 0.616);
     width: 580px;
-    color:#d67d09;
+    color:rgba(155, 63, 9, 0.89);
     border-radius: 0 8px 8px 0
     ;
 }
