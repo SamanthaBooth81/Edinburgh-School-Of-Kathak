@@ -91,6 +91,7 @@ footer a {
     margin-left: 10%;
     margin-top: 5%;
     margin-bottom: 5%;
+    max-width: 1600px;
  } 
  /* youtube video showing how to make an embedded youtube video responsive https://www.youtube.com/watch?v=9YffrCViTVk */
 
