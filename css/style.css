@@ -12,8 +12,8 @@ body {
     flex-direction: column;
 }
 
-html body {
-    min-height: 100%;
+html, body {
+    height: 100%;
 } 
 
 .content {
