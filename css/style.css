@@ -159,10 +159,7 @@ footer a {
     margin-bottom: 16px;
     outline: none;
     border: 1.5px solid black;
-}
-
-#subject {
-    width: 76%;
+    box-sizing: content-box;
 }
 
 .submit {
