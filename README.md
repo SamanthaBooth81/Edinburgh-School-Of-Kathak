@@ -63,6 +63,9 @@ Also put through WAVE to test colour contrast through out
 ## Credit 
 ### Content
 
+The website with instructions and code that I used to add a favicon:
+- https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html
+
 The information from What is Kathak? Section on the home page was taken from the below websites: 
 - https://kathadance.org/about-2/what-is-kathak/ 
 - https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning 
