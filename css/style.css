@@ -138,12 +138,14 @@ footer a {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    background-attachment: fixed;
 }
 
 .form-background {
     background-image: url("https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-background.jpg?raw=true");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .form {
