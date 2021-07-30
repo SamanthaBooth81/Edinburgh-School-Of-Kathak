@@ -284,5 +284,12 @@ https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s  */
         margin: 0;
         padding: 0 0;   
     }
-    
+    .event .event-left {
+        padding: 8px;
+        word-break: break-word; 
+    }
+
+    .event .event-right {
+        word-break: break-word; 
+    }
 }
