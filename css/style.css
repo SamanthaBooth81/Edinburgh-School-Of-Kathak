@@ -69,7 +69,7 @@ nav a:hover {
      color: rgb(241, 192, 100);
  }
  body a {
-     color: gainsboro;
+     color: rgb(255, 255, 255);
  }
 
 footer {
@@ -125,7 +125,11 @@ footer a {
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
-    
+    background-attachment: fixed;
+}
+
+.content-background {
+    background-color: rgba(0, 0, 0, 0.411);
 }
 
 .timetable-background {
@@ -133,11 +137,6 @@ footer a {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed;
-}
-
-.content-background {
-    background-color: rgba(0, 0, 0, 0.411);
 }
 
 .form-background {
