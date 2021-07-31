@@ -103,7 +103,7 @@ Beneficial for the user to find out more about the school, the style of dance an
 ## Features to be Implemented 
 1.	E-Commerce – A shopping area to pay for classes & uniform/Ghungroos online
 2.  Gallery page with images of the studios, teachers, performances 
-6.	Kathak Knowledge Base
+3.	Kathak Knowledge Base
     - Basic questions to help users learn a bit more about what Kathak is in a fun way
     - Also to aid students of the school for upcoming examinations 
     - A link to this page in the What is Kathak section of the Homepage
@@ -118,22 +118,19 @@ Beneficial for the user to find out more about the school, the style of dance an
 
 ### Frameworks, Libraries and Programmes Used 
 
-[GitHub](https://github.com/)
+[GitHub](https://github.com/) - Used to hold a repository of my project and deploy the live website to Git Pages, making it public.
 
-[GitPod](https://gitpod.io/workspaces)
+[GitPod](https://gitpod.io/workspaces) – Connected to GitHub, GitPod hosted the coding space, allowing the project to be built and then committed to the GitHub repository. 
 
-[Google Fonts](https://fonts.google.com/)
+[Google Fonts](https://fonts.google.com/) - Used to import 'Gotu' and 'Open Sans' fonts into the style sheet. 
 
-[Unsplash](https://unsplash.com/)
+[Toptal](https://www.toptal.com/designers/htmlarrows/symbols/) - Used to display HTML symbol for £.
 
-[Toptal](https://www.toptal.com/designers/htmlarrows/symbols/) - For HTML symbols 
+[jpg Optimizer](http://jpeg-optimizer.com/) - Used to reduce the size of the background images.
 
-[jpg Optimizer](http://jpeg-optimizer.com/)
+[Favicon Generator](https://favicon.io/favicon-converter/) - Used to convert a .png file into a Favicon.
 
-[Favicon Generator](https://favicon.io/favicon-converter/)
-
-[Canva](https://www.canva.com/)
-
+[Canva](https://www.canva.com/) - Used to decide inital colours for the project.
 
 
 ## Testing
@@ -149,33 +146,40 @@ No errors were found when passing through the official (Jigsaw) validator
 Also put through WAVE to test colour contrast through out
 
 ## Bugs Found
+
+No bugs found on deployment. 
+
 ## Deployment
 ## Credit 
-### Content
 
-The website with instructions and code that I used to add a favicon:
-- https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html
+## Code
+
+- The website with instructions and code that I used to add a favicon:
+[Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html)
+
+- The sticky footer code was taken from the flex section of this article: 
+[CSS-Tricks](https://css-tricks.com/couple-takes-sticky-footer/)
+
+- How to create the a:visited text colour code was taken from this website:
+[W3Schools](https://www.w3schools.com/cssref/sel_visited.asp)
+
+- How to put together the timetable page was taken from this YouTube video and then re-stylled accordingly
+[Live Blogger - Youtube](https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s)
+
+### Content
 
 The information from What is Kathak? Section on the home page was taken from the below websites: 
 - https://kathadance.org/about-2/what-is-kathak/ 
 - https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning 
 
-The sticky footer code was taken from the flex section of this article: 
-- https://css-tricks.com/couple-takes-sticky-footer/ 
-
-How to create the a:visited text colour code was taken from this website:
-- https://www.w3schools.com/cssref/sel_visited.asp 
-
-How to put together the timetable page was taken from this YouTube video and then re-stylled accordingly
-- https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s
 
 ### Media
 
-This video is taken from YouTube of myself dancing 'Pakeezah Tarana' for the Dancing Nikita Company:
+[YouTube](https://www.youtube.com/watch?v=JV2FQLYp3hU) - Used for the iframe embeded video on the homepage
 
-- https://www.youtube.com/watch?v=JV2FQLYp3hU 
+This video is taken from YouTube of myself dancing 'Pakeezah Tarana' for the 
+Dancing Nikita Company:
 
 I have placed it on the homepage so that users new to Kathak can see exactly what style they will learn if they join and so that experienced dancers get a taste of the style. 
 
-The background Images were downloaded from:
-- https://unsplash.com/ and optimized using a JPEG Optimizer
+[UnSplash](https://unsplash.com/) - Used to download the Background Images
