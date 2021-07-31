@@ -74,9 +74,15 @@ As you scroll through the website you will see the following:
 ### Classes
 Contains a timetable with class details such as class day, time, level, experience required and cost.
 This allows the user to see if their level is available and details.
+
+This page is kept simple so that the information is more accessible to the user. If more information is required, a contact form has been included, which that can navigate to using the navigation bar at the top of the page. 
+
+![timetable page image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/timetable-page.png?raw=true)
+
 ### Contact Form 
 To enable the user to get in touch with any questions or to set up a taster class. 
 This is useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time. 
+
 ### Contact Response 
 Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
 ### Footer  
