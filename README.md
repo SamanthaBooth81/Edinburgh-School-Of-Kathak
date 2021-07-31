@@ -1,10 +1,24 @@
 # Edinburgh School of Kathak Dance
 
+![Responsiveness Screenshot](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/responsive-screenshot.png?raw=true)
+
 This project is a website targeting people of all ages with a love of dance, intending to get them interested in Kathak – one of the 8 Indian Classical dances and sign up to classes. It will be used for students to sign up/enquire about lessons and also contain and learning section which can be used to test themselves or their fellow dance friends on the subject of Kathak Dance. 
 
 ## Table of Contents
 
+[Features](#features)
 
+[Features to be Implemented](#features-to-be-implemented)
+
+[Testing](#testing)
+
+[Validator Testing](#validator-testing)
+
+[Bugs Found](#bugs-found)
+
+[Deployment](#deployment)
+
+[Credit](#credit)
 
 ## Features
 
@@ -66,7 +80,7 @@ No errors were found when passing through the official (Jigsaw) validator
 
 Also put through WAVE to test colour contrast through out
 
-## Unfixed Bugs
+## Bugs Found
 ## Deployment
 ## Credit 
 ### Content
