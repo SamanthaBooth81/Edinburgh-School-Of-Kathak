@@ -2,6 +2,10 @@
 
 This project is a website targeting people of all ages with a love of dance, intending to get them interested in Kathak – one of the 8 Indian Classical dances and sign up to classes. It will be used for students to sign up/enquire about lessons and also contain and learning section which can be used to test themselves or their fellow dance friends on the subject of Kathak Dance. 
 
+## Table of Contents
+
+
+
 ## Features
 
 ###	Navigation Bar
@@ -10,35 +14,37 @@ Featured on all pages of the project, containing links to the Home Page, Timetab
 As this is placed at the top of each page, it will ensure the user is able to easily maneuvers around the site without having to revert or return to the Home Page. 
 
 ###	Landing Page Image
-    - Photograph of a Kathak dancer on stage in full costume.
-    - Intended to draw those who are both new and experienced with Kathak to that website. 
+Photograph of a Kathak dancer on stage in full costume.
+Intended to draw those who are both new and experienced with Kathak to that website. 
+
 ### Homepage INCLUDE SCREENSHOTS!!!!
-    Scroll through the page to see the following: 
-    - About the School
-        - Welcome for everyone to join 
-        - Possibility to meet new people or train privately 
-        - Performance Opportunities and Community Engagement 
-        - link to timetable 
-    - What is Kathak dance 
-        - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
-    - Benefits of Kathak Dance 
-        - Increases strength and mobility 
-        - Increases Stamina and Agility, especially the more advanced you become 
-        - Socialization – meet other students, dancers and musicians 
-        - Great for brain training as mathematical in a lot of ways 
-        - A great form self-expression
-        - Link to the Contact Page to encourage users to find out more/sign up
-###	Classes
-    - A timetable with class details such as Class Day, time, level, experience required and cost
-    - Allows the user to see if their level is available and details 
-###	Contact Form 
-    - To enable the user to get in touch with any questions or to set up a taster class 
-    - Useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time
+Scroll through the page to see the following: 
+1. About the School
+    - Welcome for everyone to join 
+    - Possibility to meet new people or train privately 
+    - Performance Opportunities and Community Engagement 
+    - Link to timetable 
+2. What is Kathak dance 
+    - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
+3. Benefits of Kathak Dance 
+    - Increases strength and mobility 
+    - Improves Stamina and Agility, especially the more advanced you become 
+    - Socialization – meet other students, dancers and musicians 
+    - Great for brain training as mathematical in a lot of ways 
+    - A great form self-expression
+    - Link to the Contact Page to encourage users to find out more/sign up
+
+### Classes
+Contains a timetable with class details such as class day, time, level, experience required and cost.
+This allows the user to see if their level is available and details.
+### Contact Form 
+To enable the user to get in touch with any questions or to set up a taster class. 
+This is useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time. 
 ### Contact Response 
-    - Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
+Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
 ### Footer  
-    - Featured on all pages of the project, containing links to the sites Social Media Pages 
-    - Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online
+Featured on all pages of the project, containing links to the sites Social Media Pages.
+Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online
 
 ## Features to be Implemented 
 1.	E-Commerce – A shopping area to pay for classes & uniform/Ghungroos online
