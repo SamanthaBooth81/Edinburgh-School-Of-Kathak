@@ -2,7 +2,7 @@
 
 ![Responsiveness Screenshot](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/responsive-screenshot.png?raw=true)
 
-This project is a website targeting people of all ages with a love of dance, intending to get them interested in Kathak – one of the 8 Indian Classical dances and sign up to classes. It will be used for students to sign up/enquire about lessons and also contain and learning section which can be used to test themselves or their fellow dance friends on the subject of Kathak Dance. 
+This project targets people of all ages with a love of dance, intending to get them interested in Kathak – one of the 8 Indian Classical dances. It will be used for possible future students to view a timetable and sign up/enquire about classes. The user will also get an insight into the schools aims and class structure as well as what Kathak Dance is with a link to further information.
 
 **Live Site**
 [Edinburgh Schhol of Kathak Website](https://samanthabooth81.github.io/Edinburgh-School-Of-Kathak/index.html)
@@ -83,7 +83,7 @@ As you scroll through the website you will see the following:
 Contains a timetable with class details such as class day, time, level, experience required and cost.
 This allows the user to see if their level is available and details.
 
-This page is kept simple so that the information is more accessible to the user. If more information is required, a contact form has been included, which that can navigate to using the navigation bar at the top of the page. 
+This page is kept simple so that the information is more accessible to the user. If more information is required, a contact form has been included, which can be navigated to using the navigation bar at the top of the page. 
 
 ![timetable page image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/timetable-page.png?raw=true)
 
@@ -91,24 +91,24 @@ This page is kept simple so that the information is more accessible to the user.
 To enable the user to get in touch with any questions or to set up a taster class. 
 This is useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time. 
 
-It contains fields to input your name, email, message reason and message which are required fields and an additional input field for a contact number for if the user prefers a call back. 
+It contains fields to input your name, email, message reason and message which are required fields. There is also an additional input field for a contact number, for if the user prefers a call back. 
 
 ![contact form image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-form-page.png?raw=true)
 
 ### Contact Response  
-Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
+Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user and guides them to the Social Media pages in the footer.
 
 ![contact response message image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-message.png?raw=true)
 
 ### Footer  
 Featured on all pages of the project, containing links to the sites Social Media Pages.
-Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online
+Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online. 
 
 ![footer image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/footer.png?raw=true)
 
 ## Features to be Implemented 
-1.	E-Commerce – A shopping area to pay for classes & uniform/Ghungroos online
-2.  Gallery page with images of the studios, teachers, performances 
+1.	E-Commerce – A shopping area to pay for classes & uniform online
+2.  Gallery page with images of the studios, teachers, classes and performances 
 3.	Kathak Knowledge Base
     - Basic questions to help users learn a bit more about what Kathak is in a fun way
     - Also to aid students of the school for upcoming examinations 
