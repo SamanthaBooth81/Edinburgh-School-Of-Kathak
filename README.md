@@ -135,6 +135,63 @@ Beneficial for the user to find out more about the school, the style of dance an
 
 ## Testing
 
+### Functionality:
+
+Navigation Bar:
+-	All links have been tested on all pages and are working as expected.
+-	On hover, highlights yellow as set in the CSS stylesheet.
+-	The navigation bar remains at the top of the screen on all screen sizes.
+
+All Internal Links were tested to ensure they direct the user to the correct page:
+-	All internal links in the body of text on the homepage take you to correct page on the site.
+-	Navigation links, located on all pages, take the user to the relevant pages.
+-	All links are coloured correctly, based on rules set in the CSS Stylesheet.
+
+All External Links were tested to ensure they direct the user to the correct page.
+-	All links are coloured correctly, based on rules set in the CSS Stylesheet.
+-	All links open on a new blank page.
+
+Iframe element was tested on all devised to ensure the video played and how it was positioned on the page was responsive on multiple screen dimensions.
+
+Footer (on all pages)
+-	The footer remained at the bottom of the screen on all pages, especially the form pages as the content doesn’t fill the space on larger screens.
+-	The Social Media Links show as icons as intended and when clicked take you to a new blank page or direct to an app on the user’s device. 
+
+Contact Form
+-	Unable to submit unless all required field completed. 
+-	Can only put an email in the email field.
+-	Redirected to the Contact Message Page once form is submitted.
+
+### Usability Testing 
+
+To test the site the usability this site was shared with a few friends and family members of different ages to confirm ease of use. As far as they could see there weren’t any issues with navigating the site or visibility of the content or the functionality of the links. 
+
+### Compatibility Testing
+
+#### Devices Tested with:
+-	Apple MacBook Pro 13”
+-	Razer Blaze Pro 17.3” 
+-	iPad OS 14.6
+-	Apple iPhone X
+-	Apple iPhone XR Plus
+-	Samsung S10+
+
+### Web Browsers tested on:
+- Google Chrome
+- Safari
+- Microsoft Edge 
+
+Chrome DevTools was also extensively used to test responsiveness, by both 
+
+### Performance Testing 
+
+The performance testing of the site was completed using [WebPageTest]( https://www.webpagetest.org/) with the location set as London and browser Google Chrome. 
+
+The following results was received: 
+
+![web page performance result](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/web-page-performace-test-result.png?raw=true) 
+
+Areas of improvement are Security and Cache Static Content which are not part of this projects scope but I will work on these for future projects. 
 
 ## Validator Testing
 
