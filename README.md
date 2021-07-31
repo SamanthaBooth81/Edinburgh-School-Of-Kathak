@@ -219,7 +219,7 @@ To deploy my site to GitHub Pages I completed the following steps:
 
 - Once in Settings, scrolled down and clicked on **Pages** located near the bottom of the left navigation bar.
 
-![github pages image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/github-pages.png?raw=true)
+![github pages image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/github-pages-screenshot.png?raw=true)
 
 - Saved the **Source** as **Root** to ensure the webpage will be built from the main branch.
 
@@ -227,6 +227,7 @@ To deploy my site to GitHub Pages I completed the following steps:
 
 - Once the source had been saved, GitHub Pages generated a link to my live site. 
 
+![github website link image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/github-website-link.png?raw=true)
 
 ## Bugs Found
 
@@ -247,6 +248,9 @@ No bugs found on deployment.
 
 - How to put together the timetable page was taken from this YouTube video and then re-stylled accordingly
 [Live Blogger - Youtube](https://www.youtube.com/watch?v=2_mH8HyZLvA&t=250s)
+
+- Inspiration for the contact form came from the following YouTube video:
+[True Coder - Youtube](https://www.youtube.com/watch?v=Db5jCkrVgAw)
 
 ### Content
 
