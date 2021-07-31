@@ -212,9 +212,19 @@ This project has been publish on [GitHub Pages](https://github.com/SamanthaBooth
 To deploy my site to GitHub Pages I completed the following steps:    
 
 - Ensured all code had been committed and pushed into my GitHub Repository. 
+
 - clicked on **Settings**, found at the end of the navigation bar within the Repository.
+
+![github pages settings image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/github-settings.png?raw=true)
+
 - Once in Settings, scrolled down and clicked on **Pages** located near the bottom of the left navigation bar.
+
+![github pages image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/github-pages.png?raw=true)
+
 - Saved the **Source** as **Root** to ensure the webpage will be built from the main branch.
+
+![github sources image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/page-source.png?raw=true)
+
 - Once the source had been saved, GitHub Pages generated a link to my live site. 
 
 
@@ -224,7 +234,7 @@ No bugs found on deployment.
 
 ## Credit 
 
-## Code
+### Code
 
 - The website with instructions and code that I used to add a favicon:
 [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-add-a-favicon-to-your-website-with-html)
