@@ -37,14 +37,18 @@ As this is placed at the top of each page, it will ensure the user is able to ea
 
 ###	Landing Page Image
 
-![homepage image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true)
+[hompage heading](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true)
 
 Photograph of a Kathak dancer on stage in full costume.
 Intended to draw those who are both new and experienced with Kathak to that website. 
 
-### Homepage INCLUDE SCREENSHOTS!!!!
-Scroll through the page to see the following: 
-1. About the School
+### Homepage
+As you scroll through the website you will see the following: 
+1. Homepage Heading
+
+[homepage heading](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-header.png?raw=true)
+
+2. About the School
     - Welcome for everyone to join 
     - Possibility to meet new people or train privately 
     - Performance Opportunities and Community Engagement 
