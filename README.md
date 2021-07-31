@@ -58,6 +58,9 @@ As you scroll through the website you will see the following:
 
 2. What is Kathak dance 
     - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
+
+[what is kathak section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-what-is-kathak-section.png?raw=true)
+
 3. Benefits of Kathak Dance 
     - Increases strength and mobility 
     - Improves Stamina and Agility, especially the more advanced you become 
