@@ -204,6 +204,17 @@ Also put through WAVE to test colour contrast through out
 
 ## Deployment
 
+This project has been publish on [GitHub Pages](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/settings/pages). 
+
+To deploy my site to GitHub Pages I completed the following steps:    
+
+- Ensured all code had been committed and pushed into my GitHub Repository. 
+- clicked on **Settings**, found at the end of the navigation bar within the Repository.
+- Once in Settings, scrolled down and clicked on **Pages** located near the bottom of the left navigation bar.
+- Saved the **Source** as **Root** to ensure the webpage will be built from the main branch.
+- Once the source had been saved, GitHub Pages generated a link to my live site. 
+
+
 
 ## Bugs Found
 
