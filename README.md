@@ -176,7 +176,7 @@ To test the site the usability this site was shared with a few friends and famil
 -	Apple iPhone XR Plus
 -	Samsung S10+
 
-### Web Browsers tested on:
+#### Web Browsers tested on:
 - Google Chrome
 - Safari
 - Microsoft Edge 
