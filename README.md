@@ -37,7 +37,7 @@ As this is placed at the top of each page, it will ensure the user is able to ea
 
 ###	Landing Page Image
 
-[hompage heading](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true)
+![hompage background image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true)
 
 Photograph of a Kathak dancer on stage in full costume.
 Intended to draw those who are both new and experienced with Kathak to that website. 
@@ -46,13 +46,16 @@ Intended to draw those who are both new and experienced with Kathak to that webs
 As you scroll through the website you will see the following: 
 1. Homepage Heading
 
-[homepage heading](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-header.png?raw=true)
+![homepage heading](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-header.png?raw=true)
 
 2. About the School
     - Welcome for everyone to join 
     - Possibility to meet new people or train privately 
     - Performance Opportunities and Community Engagement 
     - Link to timetable 
+
+![about section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-about-section.png?raw=true)
+
 2. What is Kathak dance 
     - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
 3. Benefits of Kathak Dance 
