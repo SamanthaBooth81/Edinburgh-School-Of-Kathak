@@ -10,6 +10,8 @@ This project is a website targeting people of all ages with a love of dance, int
 
 [Features to be Implemented](#features-to-be-implemented)
 
+[Technologies Used](#technologies-used)
+
 [Testing](#testing)
 
 [Validator Testing](#validator-testing)
@@ -105,6 +107,34 @@ Beneficial for the user to find out more about the school, the style of dance an
     - Basic questions to help users learn a bit more about what Kathak is in a fun way
     - Also to aid students of the school for upcoming examinations 
     - A link to this page in the What is Kathak section of the Homepage
+
+## Technologies Used
+
+### Languages Used
+
+[HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+[CSS](https://en.wikipedia.org/wiki/CSS)
+
+### Frameworks, Libraries and Programmes Used 
+
+[GitHub](https://github.com/)
+
+[GitPod](https://gitpod.io/workspaces)
+
+[Google Fonts](https://fonts.google.com/)
+
+[Unsplash](https://unsplash.com/)
+
+[Toptal](https://www.toptal.com/designers/htmlarrows/symbols/) - For HTML symbols 
+
+[jpg Optimizer](http://jpeg-optimizer.com/)
+
+[Favicon Generator](https://favicon.io/favicon-converter/)
+
+[Canva](https://www.canva.com/)
+
+
 
 ## Testing
 
