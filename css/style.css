@@ -68,8 +68,8 @@ nav a {
 nav a:hover {
      color: rgb(241, 192, 100);
  }
- body a {
-     color: rgb(255, 255, 255);
+ body p a {
+     color: rgb(209, 63, 5);
  }
 
 footer {
