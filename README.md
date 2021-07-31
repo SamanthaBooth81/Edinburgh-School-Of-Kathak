@@ -202,11 +202,13 @@ No errors were found when passing through the official (Jigsaw) validator
 
 Also put through WAVE to test colour contrast through out
 
+## Deployment
+
+
 ## Bugs Found
 
 No bugs found on deployment. 
 
-## Deployment
 ## Credit 
 
 ## Code
