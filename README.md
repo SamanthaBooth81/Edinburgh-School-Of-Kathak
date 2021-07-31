@@ -4,6 +4,12 @@
 
 This project is a website targeting people of all ages with a love of dance, intending to get them interested in Kathak – one of the 8 Indian Classical dances and sign up to classes. It will be used for students to sign up/enquire about lessons and also contain and learning section which can be used to test themselves or their fellow dance friends on the subject of Kathak Dance. 
 
+**Live Site**
+[Edinburgh Schhol of Kathak Website](https://samanthabooth81.github.io/Edinburgh-School-Of-Kathak/index.html)
+
+**Repository**
+[Edinburgh School of Kathak Repository](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak)
+
 ## Table of Contents
 
 [Features](#features)
