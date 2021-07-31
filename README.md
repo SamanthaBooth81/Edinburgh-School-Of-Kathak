@@ -261,8 +261,8 @@ No bugs found on deployment.
 ### Content
 
 The information from What is Kathak? Section on the home page was taken from the below websites: 
-- https://kathadance.org/about-2/what-is-kathak/ 
-- https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning 
+[Katha Dance Theatre- What is kathak](https://kathadance.org/about-2/what-is-kathak/)
+[BBC Article on Kathak Gestures](https://www.bbc.co.uk/programmes/articles/2MMxwpfq6Dm0b5ywHRJkwHq/kathak-does-every-gesture-have-a-meaning)
 
 
 ### Media
