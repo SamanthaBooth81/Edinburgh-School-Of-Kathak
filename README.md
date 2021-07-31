@@ -26,7 +26,7 @@ This project is a website targeting people of all ages with a love of dance, int
 
 ![favicon in browser tab](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/favicon-32x32-updated.png?raw=true)
 
-Added favicon to the Browser Tab to increase User Experience by including an identifiable image. 
+Added favicon to the Browser Tab to increase User Experience by including an identifiable image. This favicon was designed in [Canva](https://www.canva.com/) and converted to a favicon using a [Favicon Generator](https://favicon.io/favicon-converter/). 
 
 ###	Navigation Bar
 
@@ -83,7 +83,11 @@ This page is kept simple so that the information is more accessible to the user.
 To enable the user to get in touch with any questions or to set up a taster class. 
 This is useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time. 
 
-### Contact Response 
+It contains fields to input your name, email, message reason and message which are required fields and an additional input field for a contact number for if the user prefers a call back. 
+
+![contact form image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-form-page.png?raw=true)
+
+### Contact Response  
 Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
 ### Footer  
 Featured on all pages of the project, containing links to the sites Social Media Pages.
