@@ -22,12 +22,23 @@ This project is a website targeting people of all ages with a love of dance, int
 
 ## Features
 
+### Favicon 
+
+![favicon in browser tab](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/favicon-32x32-updated.png?raw=true)
+
+Added favicon to the Browser Tab to increase User Experience by including an identifiable image. 
+
 ###	Navigation Bar
+
+![navigation bar image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/nav-bar.png?raw=true)
 
 Featured on all pages of the project, containing links to the Home Page, Timetable and Contact Form.
 As this is placed at the top of each page, it will ensure the user is able to easily maneuvers around the site without having to revert or return to the Home Page. 
 
 ###	Landing Page Image
+
+![homepage image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-background.png?raw=true)
+
 Photograph of a Kathak dancer on stage in full costume.
 Intended to draw those who are both new and experienced with Kathak to that website. 
 
