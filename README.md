@@ -59,7 +59,7 @@ As you scroll through the website you will see the following:
 2. What is Kathak dance 
     - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
 
-[what is kathak section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-what-is-kathak-section.png?raw=true)
+![what is kathak section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-what-is-kathak-section.png?raw=true)
 
 3. Benefits of Kathak Dance 
     - Increases strength and mobility 
@@ -68,6 +68,8 @@ As you scroll through the website you will see the following:
     - Great for brain training as mathematical in a lot of ways 
     - A great form self-expression
     - Link to the Contact Page to encourage users to find out more/sign up
+
+![benefits section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-benefits-section.png?raw=true)
 
 ### Classes
 Contains a timetable with class details such as class day, time, level, experience required and cost.
