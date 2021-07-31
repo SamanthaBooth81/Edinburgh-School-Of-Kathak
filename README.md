@@ -4,14 +4,16 @@ This project is a website targeting people of all ages with a love of dance, int
 
 ## Features
 
-1.	Navigation Bar
-    - Featured on all pages of the project, containing links to the Home Page, Timetable and Contact Form
-    - As this is placed at the top of each page, it will ensure the user is able to easily maneuvers around the site without having to revert or return to the Home Page
-2.	Landing Page Image
+###	Navigation Bar
+
+Featured on all pages of the project, containing links to the Home Page, Timetable and Contact Form.
+As this is placed at the top of each page, it will ensure the user is able to easily maneuvers around the site without having to revert or return to the Home Page. 
+
+###	Landing Page Image
     - Photograph of a Kathak dancer on stage in full costume.
     - Intended to draw those who are both new and experienced with Kathak to that website. 
-3.	Homepage INCLUDE SCREENSHOTS!!!!
-Scroll down through the page to see the following: 
+### Homepage INCLUDE SCREENSHOTS!!!!
+    Scroll through the page to see the following: 
     - About the School
         - Welcome for everyone to join 
         - Possibility to meet new people or train privately 
@@ -26,15 +28,15 @@ Scroll down through the page to see the following:
         - Great for brain training as mathematical in a lot of ways 
         - A great form self-expression
         - Link to the Contact Page to encourage users to find out more/sign up
-4.	Classes
+###	Classes
     - A timetable with class details such as Class Day, time, level, experience required and cost
     - Allows the user to see if their level is available and details 
-5.	Contact Form 
+###	Contact Form 
     - To enable the user to get in touch with any questions or to set up a taster class 
     - Useful for the user as it gives them a way to get in touch but also for the owner as they can respond when they have time
-6. Contact Response 
+### Contact Response 
     - Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
-7. Footer  
+### Footer  
     - Featured on all pages of the project, containing links to the sites Social Media Pages 
     - Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online
 
