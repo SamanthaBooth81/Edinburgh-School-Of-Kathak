@@ -58,18 +58,18 @@ As you scroll through the website you will see the following:
 
 2. About the School
     - Welcome for everyone to join 
-    - Possibility to meet new people or train privately 
+    - Possibility to meet new people or partake in private classes
     - Performance Opportunities and Community Engagement 
     - Link to timetable 
 
 ![about section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-about-section.png?raw=true)
 
-2. What is Kathak dance 
+3. What is Kathak dance 
     - Some basic background information about the history of Kathak with a link to a Wikipedia page containing more information
 
 ![what is kathak section image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/homepage-what-is-kathak-section.png?raw=true)
 
-3. Benefits of Kathak Dance 
+4. Benefits of Kathak Dance 
     - Increases strength and mobility 
     - Improves Stamina and Agility, especially the more advanced you become 
     - Socialization – meet other students, dancers and musicians 
@@ -145,7 +145,7 @@ Beneficial for the user to find out more about the school, the style of dance an
 
 Navigation Bar:
 -	All links have been tested on all pages and are working as expected.
--	On hover, highlights yellow as set in the CSS stylesheet.
+-	On hover, links highlight yellow as set in the CSS stylesheet.
 -	The navigation bar remains at the top of the screen on all screen sizes.
 
 All Internal Links were tested to ensure they direct the user to the correct page:
@@ -275,3 +275,10 @@ Dancing Nikita Company:
 I have placed it on the homepage so that users new to Kathak can see exactly what style they will learn if they join and so that experienced dancers get a taste of the style. 
 
 [UnSplash](https://unsplash.com/) - Used to download the Background Images
+
+## Acknowledgments 
+
+- This project was inspired by my love of Kathak Dance and enjoyment in also previously teaching in a Kathak Dance School 
+- Thank you to all who helped as I built my first ever website! I appreciate the encouragement and extremely helpful feedback received both from the Slack community and from family and friends. ![image](https://user-images.githubusercontent.com/85261522/127751282-241fa111-79cc-4320-ae6c-822594e84d32.png)
+
+- I'd like to also thank my mentor for his thorough feedback and guidance. 
