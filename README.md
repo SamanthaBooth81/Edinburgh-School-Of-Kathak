@@ -195,12 +195,15 @@ Areas of improvement are Security and Cache Static Content which are not part of
 
 ## Validator Testing
 
-HTML
-No errors were returned when passing through the official W3C validator
-CSS
-No errors were found when passing through the official (Jigsaw) validator
+**HTML**
 
-Also put through WAVE to test colour contrast through out
+No errors were returned when passing through the official W3C validator.
+
+**CSS**
+
+No errors were found when passing through the official (Jigsaw) validator.
+
+Also put through [WAVE](https://wave.webaim.org/) to test colour contrast through out.
 
 ## Deployment
 
@@ -213,7 +216,6 @@ To deploy my site to GitHub Pages I completed the following steps:
 - Once in Settings, scrolled down and clicked on **Pages** located near the bottom of the left navigation bar.
 - Saved the **Source** as **Root** to ensure the webpage will be built from the main branch.
 - Once the source had been saved, GitHub Pages generated a link to my live site. 
-
 
 
 ## Bugs Found
