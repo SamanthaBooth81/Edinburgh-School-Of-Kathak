@@ -89,9 +89,14 @@ It contains fields to input your name, email, message reason and message which a
 
 ### Contact Response  
 Once a message has been placed the user will be re-directed to the contact-response page which displays a thank you message to the user
+
+![contact response message image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/contact-message.png?raw=true)
+
 ### Footer  
 Featured on all pages of the project, containing links to the sites Social Media Pages.
 Beneficial for the user to find out more about the school, the style of dance and also to keep up-to-date with what is happening if they choose to follow the school online
+
+![footer image](https://github.com/SamanthaBooth81/Edinburgh-School-Of-Kathak/blob/main/images/footer.png?raw=true)
 
 ## Features to be Implemented 
 1.	E-Commerce – A shopping area to pay for classes & uniform/Ghungroos online
